@@ -1,2 +1,3 @@
-# resume-knowledge-base
-A local knowledge base system for resume management and candidate information retrieval
+# Resume Knowledge Base
+
+This repository contains various resources and information related to resumes, including templates, examples, and best practices.
