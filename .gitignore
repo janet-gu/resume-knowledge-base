@@ -1,13 +1,24 @@
-.gitignore
-
 # Python
-__pycache__/
 *.pyc
-*.pyo
-.Python
-env/
-venv/
+__pycache__/
 
-# Node.js
-node_modules/
-package-lock.json
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Database
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Common Files to Ignore
+.DS_Store
+Thumbs.db
